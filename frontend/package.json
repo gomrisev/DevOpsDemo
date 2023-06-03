@@ -10,9 +10,9 @@
     "Rapid Application Development",
     "Rapid Application Manufacturing"
   ],
-  "homepage": "https://github.com/innovad/path-example/",
+  "homepage": "https://github.com/gomrisev/path-example/",
   "bugs": {
-    "url": "https://github.com/innovad/path-example/issues"
+    "url": "https://github.com/gomrisev/path-example/issues"
   },
   "license": "LGPL-3.0",
   "author": {
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/innovad/path-example.git"
+    "url": "https://github.com/gomrisev/path-example.git"
   },
   "engines": {
     "node": "18.12.1",
